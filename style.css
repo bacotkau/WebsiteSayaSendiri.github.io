@@ -1,0 +1,38 @@
+body {
+    background: #222;
+}
+
+* {
+    color : #fff;
+}
+
+.About {
+    text-align: center;
+}
+
+.license {
+    text-align: center;
+}
+
+.social {
+    text-align: center;
+}
+
+.licenseF {
+    text-align: center;
+    color: red;
+}
+
+.download {
+    text-align: center;
+}
+
+.screenshot {
+    text-align: center;
+}
+
+.title {
+    background-color: #00ddff;
+    text-align: center;
+    padding: 5px;
+}
